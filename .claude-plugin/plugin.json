@@ -1,0 +1,10 @@
+{
+  "name": "dcc-achievement",
+  "description": "Generate Dungeon Crawler Carl style sarcastic achievement notifications for real-world situations. The System AI judges your life choices.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jamie Bono"
+  },
+  "repository": "https://github.com/jamiebono/dcc-achievement-skill",
+  "license": "MIT"
+}

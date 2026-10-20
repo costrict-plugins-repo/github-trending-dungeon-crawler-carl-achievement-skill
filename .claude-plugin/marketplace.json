@@ -1,0 +1,17 @@
+{
+  "name": "dcc-achievement-skill",
+  "owner": { "name": "Jamie Bono" },
+  "metadata": {
+    "description": "Generate Dungeon Crawler Carl style sarcastic achievement notifications for real-world situations. The System AI judges your life choices.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "dcc-achievement",
+      "description": "Generate Dungeon Crawler Carl style achievements and loot box openings for real-world situations.",
+      "source": "./",
+      "strict": false,
+      "skills": ["./skills/achievement"]
+    }
+  ]
+}
